@@ -1,0 +1,120 @@
+<html> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Salmoon 🎀❤️</title> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> 
+  <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            background-color: #E6E6FA; /* Lavender background */
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 40px;
+            background-color: #fff; /* White background for content */
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #D36C9B; /* Girly pink color */
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        .heading-img {
+            width: 50px;
+            height: auto;
+            border-radius: 10px;
+            border: 2px solid #D36C9B;
+        }
+        .welcome-message {
+            font-size: 1.5em;
+            color: #D36C9B; /* Girly pink color */
+            margin-bottom: 20px;
+        }
+        .intro {
+            font-size: 1.2em;
+            color: #555;
+            line-height: 1.5;
+            margin-bottom: 30px;
+        }
+        .intro span {
+            font-size: 1.5em;
+            color: #D36C9B; /* Girly pink color */
+        }
+        .social-media {
+            margin-top: 20px;
+        }
+        .social-media a {
+            text-decoration: none;
+            color: #D36C9B; /* Girly pink color */
+            margin: 0 15px;
+            font-size: 1.5em; /* Slightly larger icons */
+        }
+        .social-media a:hover {
+            color: #FAD02E; /* Highlight color */
+        }
+        img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            margin-top: 20px;
+            border: 4px solid #D36C9B; /* Girly pink border */
+        }
+        .blossom-images {
+            margin: 20px 0;
+        }
+        .blossom-img {
+            width: 100px;
+            height: auto;
+            margin: 0 10px;
+            border: 2px solid #D36C9B;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s;
+        }
+        .blossom-img:hover {
+            transform: scale(1.1);
+        }
+        .end-blossom-images {
+            margin: 20px 0;
+        }
+        .end-blossom-img {
+            width: 60px;
+            height: auto;
+            border-radius: 10px;
+            border: 2px solid #D36C9B;
+        }
+    </style> 
+ </head> 
+ <body> 
+  <div class="container"> <!-- Heading with Blossom Images --> 
+   <h1> <img src="https://drive.google.com/uc?export=view&amp;id=14zsl-PE8PsFHKKkLSziEQiaAwaMHKckr" alt="Blossom Image 1" class="heading-img"> Salmoon 🎀❤️ <img src="https://drive.google.com/uc?export=view&amp;id=14tHcPNdn9BAPwVPiYOQd5gTWG9WIdPvn" alt="Blossom Image 2" class="heading-img"> </h1> 
+   <div class="welcome-message">
+    Welcome to my website!
+   </div> 
+   <img src="https://drive.google.com/uc?export=view&amp;id=14UZoJrK61d6hxLKCF9o1lt5x5Y7syJAH" alt="picture"> <!-- Blossom Images --> 
+   <div class="blossom-images"> 
+    <img src="https://drive.google.com/uc?export=view&amp;id=14swX3Wy4YizmDszXFEGYHZ_spfqHO6Ga" alt="Blossom Image 1" class="blossom-img"> 
+    <img src="https://drive.google.com/uc?export=view&amp;id=14wVimvoCZXMDUVsTEkog8cog_4X0v8Aa" alt="Blossom Image 2" class="blossom-img"> 
+   </div> 
+   <div class="intro"> 
+    <p>Hello! I'm <strong>Umma Salma</strong>, a dedicated law graduate and researcher with a passion for digital marketing. I am also an avid fan of anime, books, series, and movies. Let's connect! ❤️🎀</p> 
+   </div> <!-- Ending with Blossom Images --> 
+   <div class="end-blossom-images"> 
+    <img src="https://drive.google.com/uc?export=view&amp;id=14c-DkpHICph50j4dOSX7mvozQ1_PXsC8" alt="Google Drive Image" class="end-blossom-img"> 
+    <div class="social-media"> <a href="mailto:sulmunakter@gmail.com" target="_blank" aria-label="Gmail"> <i class="fas fa-envelope"></i> </a> <a href="https://ngl.link/salmoon_light" target="_blank" aria-label="NGL"> <i class="fab fa-twitter"></i> </a> <a href="https://www.facebook.com/umma.salma.salmoon?mibextid=ZbWKwL" target="_blank" aria-label="Facebook"> <i class="fab fa-facebook-f"></i> </a> <a href="https://www.instagram.com/salmoon_light?igsh=MW83Y29xMGpnMzQyaQ==" target="_blank" aria-label="Instagram"> <i class="fab fa-instagram"></i> </a> <a href="https://www.linkedin.com/in/umma-salma-926021234" target="_blank" aria-label="LinkedIn"> <i class="fab fa-linkedin-in"></i> </a> 
+    </div> 
+   </div> 
+  </div> 
+ </body>
+</html>
